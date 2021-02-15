@@ -1,6 +1,5 @@
 "use strict";
 window.addEventListener("DOMContentLoaded", () => {
-  "use strict";
   const inputElement = document.querySelector(".inputData");
   const findBtn = document.querySelector(".findBtn");
   const userInfo = document.querySelector(".userInfo");
